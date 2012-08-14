@@ -1,1 +1,0 @@
-TRADUCCIÓ AL CATALÀ de progit. Qualsevol aportació o comentari, és benvingut/da. a@alexandresaiz.com
